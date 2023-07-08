@@ -78,6 +78,11 @@ nav ul li a:hover{
     flex-direction: column;
     margin: 0 1vh;
 }
+.card-item img:hover{
+    outline: 2px outset blue;
+    transform: scale(1.1,1.1);
+    /* border: 1px solid gray; */
+}
 .card h2{
     font-family: 'Lato', sans-serif;
     margin: 2vh 0vh;
