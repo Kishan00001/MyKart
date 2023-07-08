@@ -6,7 +6,7 @@
     .logo img{
         display: flex;
         justify-content: center;
-        margin: 1vh 27vh;
+        margin: 1vh auto;
     }
     .slider{
         height: 23vh;
